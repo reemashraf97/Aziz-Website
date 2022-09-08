@@ -211,8 +211,7 @@ body {
 /* Large devices (laptops/desktops, 992px and up) */
 @media only screen and (min-width: 992px) {
     .container {
-        width: max-content;
-        padding: 3%;
+        width: 1170px;
     }
     .first-para {
         width: 420px;
